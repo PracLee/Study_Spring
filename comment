@@ -1,0 +1,11 @@
+language : Java 15.0.5
+IDE : IntelliJ
+Build Tools : Gradle
+Spring version : 2.7.5
+Dependency : Spring web - back
+             Thymleaf   - front
+
+
+
+https://start.spring.io
+-> Spring initializer
